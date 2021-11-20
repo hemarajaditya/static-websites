@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcasts-home-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.podcasts-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.podcasts-card-container {
+    padding : 15px;
+
+}
+
+.detailed-card {
+    margin: 10px;
+    text-align: center;
+
+}
+
+.card-image {
+    height: 112px;
+    width: 144px;
+    margin-top: 10px;
+}
+
+.detailed-card-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.detailed-card-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.podcasts-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+
+}
+
+.podcasts-text-container {
+    padding: 10px;
+}
+
+.category {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcasts-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.podcasts-caption {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcasts-episode-container {
+    margin: 10px;
+
+}
+
+.podcasts-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+
+}
+
+.podcasts-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+
+}
+
+.button-container {
+    margin: 20px;
+
+}
+
+.button {
+    color: #ffffff;
+    background-color: #141961;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 12px;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: 0px;
+
+}
